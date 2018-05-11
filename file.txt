@@ -1,1 +1,4 @@
 first line
+London is a capitol of GB
+Moscow is the capitol of Russia
+Paris is the capitol of France
